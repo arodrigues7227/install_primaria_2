@@ -73,3 +73,4 @@ system_nginx_restart
 system_certbot_setup
 
 frontend_update
+backend_update
